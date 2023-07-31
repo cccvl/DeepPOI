@@ -87,7 +87,7 @@ Table 2 Total number of videos per POI in DeepPOI
         <td>face swap</td>
         <td>facial reenactment</td>
         <td>lip-sync</td>
-        <td>{Total}</td>
+        <td>Total</td>
     </tr>
     <tr>
         <td>Putin</td>
@@ -95,7 +95,7 @@ Table 2 Total number of videos per POI in DeepPOI
         <td>1,765</td>
         <td>1,054</td>
         <td>1,206</td>
-        <td>{7,025}</td>
+        <td>7,025</td>
     </tr>
     <tr>
         <td>Obama</td>
@@ -103,7 +103,7 @@ Table 2 Total number of videos per POI in DeepPOI
         <td>2,466</td>
         <td>2,709</td>
         <td>3,058</td>
-        <td>{14,233}</td>
+        <td>14,233</td>
     </tr>
     <tr>
         <td>Hillary</td>
@@ -111,7 +111,7 @@ Table 2 Total number of videos per POI in DeepPOI
         <td>2,289</td>
         <td>2,734</td>
         <td>2,688</td>
-        <td>{13,711}</td>
+        <td>13,711</td>
     </tr>
     <tr>
         <td>Biden</td>
@@ -119,7 +119,7 @@ Table 2 Total number of videos per POI in DeepPOI
         <td>2,423</td>
         <td>3,089</td>
         <td>3,354</td>
-        <td>{14,866}</td>
+        <td>14,866</td>
     </tr>
     <tr>
         <td>Trump</td>
@@ -127,15 +127,15 @@ Table 2 Total number of videos per POI in DeepPOI
         <td>2,367</td>
         <td>2,895</td>
         <td>2,776</td>
-        <td>{14,038}</td>
+        <td>14,038</td>
     </tr>
     <tr>
-        <td>{Total}</td>
-        <td>{27,000}</td>
-        <td>{11,310}</td>
-        <td>{12,481}</td>
-        <td>{13,082}</td>
-        <td>{63,873}</td>
+        <td>Total</td>
+        <td>27,000</td>
+        <td>11,310</td>
+        <td>12,481</td>
+        <td>13,082</td>
+        <td>63,873</td>
     </tr>
 </table>
 

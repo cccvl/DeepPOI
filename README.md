@@ -24,42 +24,42 @@ Table 1 Comparison of our dataset with existing deepfake datasets
         <td>Frame</td>
     </tr>
     <tr>
-        <td>DF-TIMIT\cite{bib49}</td>
+        <td>DF-TIMIT</td>
         <td>320</td>
         <td>34.0k</td>
         <td>320</td>
         <td>34.0k</td>
     </tr>
     <tr>
-        <td>FF++\cite{bib45}</td>
+        <td>FF++</td>
         <td>1,000</td>
         <td>509.9k</td>
         <td>4,000</td>
         <td>1,830.1k</td>
     </tr>
     <tr>
-        <td>DFDC\cite{bib46}</td>
+        <td>DFDC</td>
         <td>1,131</td>
         <td>488.4k</td>
         <td>4,113</td>
         <td>1783.3k</td>
     </tr>
     <tr>
-        <td>Celeb-DF\cite{bib47}</td>
+        <td>Celeb-DF</td>
         <td>590</td>
         <td>225.4k</td>
         <td>5,639</td>
         <td>21,116.8k</td>
     </tr>
     <tr>
-        <td>WildDeepfake\cite{bib48}</td>
+        <td>WildDeepfake</td>
         <td>3,805</td>
         <td>440.5k</td>
         <td>3,509</td>
         <td>739.6k</td>
     </tr>
     <tr>
-        <td>DeeperForensics-1.0\cite{bib50}</td>
+        <td>DeeperForensics-1.0</td>
         <td>50,000</td>
         <td>14,667k</td>
         <td>10,000</td>

@@ -1,4 +1,4 @@
-# DeepROI
+# DeepPOI
 A deep fake dataset for particular person
 
 The dataset is introduced in the submitted paper "Spatial-temporal transformer network for protecting person-of-interest from deepfake".

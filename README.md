@@ -139,4 +139,4 @@ Table 2 Total number of videos per POI in DeepPOI
     </tr>
 </table>
 
-Download DeepROI from https://pan.baidu.com/s/1NziUZPEmG98nB3_OhMx7ig with code:lgg8 
+Download DeepPOI from https://pan.baidu.com/s/1NziUZPEmG98nB3_OhMx7ig with code:lgg8 
